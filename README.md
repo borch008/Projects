@@ -1,19 +1,15 @@
-# M11_Projecte-Final: Predicción de resultados de fútbol de la primera división española con ML
+# <span style="color:#B8860B">ESP</span>
 
-Key words: #Python, #ML supervisado, #Regresión, #Clasficación #Metricas de avaluación, #Balanceo #GridSearch #RandomSearch #PCA
+En este repositorio podrás encontrar mis propios proyectos cómo científico de datos en que uso distintas técnicas de ML, DL, BD con Python tras su correspondiente su análisis de datos.
 
-Librerías usadas: Numpy, Pandas, Matplot, Seaborn, Scikit-learn, 
+---
 
-Modelos de ML usados
-    a) Regresión: SVR, KNR, LR
-    b) Clasificación: KNN, DTC, SVC, KNC, LogisticRegression
-    
-BBDD: original de BDFutbol
-    a) Features: Variables subjetivas según mi parecer.
-    b) Target: Goles Locales y Goles Visitantes (Regresión), Resultado partido (1-Victoria Local, 2-Victoria Visitantes, 3-Empate
-    
-Métricas para avaluar los modelos
-    a) Regresión: MAE, R2
-    b) Clasificación: Matriz de Confusión, Classification report, F1_micro
-    
-Búsqueda de mejorar el modelo: Hiperparametros, PCA, Balanceo
+# <span style="color:darkblue">ENG</span>  
+
+In this repository, you will find some of my own projects as a data scientist, where I use different ML, DL and BD tools with Python after conductiong the corresponding data analysis.
+
+---
+
+# <span style="color:darkred">CAT</span>  
+
+En aquest repositori podràs trobar els meus propis projectes com a científic de dades en el que utilitzo diferents tècniques de ML, DL, BG amb el llenguatge Python després del seu corresponent analisis de dades.
